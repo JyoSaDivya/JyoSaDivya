@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyosadivya&label=Profile%20views&color=0e75b6&style=flat" alt="jyosadivya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyosadivya" alt="jyosadivya" /></a> </p>
-
 - 🔭 I’m currently working on [Tech Courses](https://github.com/JyoSaDivya/techcourses.github.io)
 
 - 🌱 I’m currently learning **ReactJS,NodeJS,ML,AI,Big Data**
