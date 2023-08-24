@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyosadivya&label=Profile%20views&color=0e75b6&style=flat" alt="jyosadivya" /> </p>
 
-- 🔭 I’m currently working on [Tech Courses](https://github.com/JyoSaDivya/techcourses.github.io)
+- 🔭 I’m currently working on [E-commerce Website](https://github.com/JyoSaDivya/E-Commerce)
 
-- 🌱 I’m currently learning **ReactJS,NodeJS,ML,AI,Big Data**
+- 🌱 I’m currently learning **ReactJS,NodeJS,ML,AI,Big Data,NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JyoSaDivya](https://github.com/JyoSaDivya)
 
